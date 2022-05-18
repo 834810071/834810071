@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Vue, Go, C++, Kafka, Redis
 - 😄 [Personal essay](https://834810071.github.io/)
 ### Some Statistics About Me
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=834810071&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=834810071&layout=compact&exclude_repo=834810071.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=834810071&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="吉晓琪's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=834810071&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
