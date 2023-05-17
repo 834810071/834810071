@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ### Tags
-- 🔭 I’m currently working on [快手](https://www.kuaishou.com/)
-- 🌱 I’m currently learning Python, Vue, Go, C++, Kafka, Redis
+- 🔭 I’m currently working in [字节跳动](https://www.bytedance.com/zh/), before working in [快手](https://www.kuaishou.com/)
+- 🌱 I’m currently learning Go, C++, Python, Kafka, Redis, Vue
+- 😄 I'm a novice and I'm currently learning about code refactoring
 - 😄 [Personal essay](https://834810071.github.io/)
 ### Some Statistics About Me
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=834810071&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="吉晓琪's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=834810071&layout=compact&theme=buefy&hide_border=true" /></a> |
